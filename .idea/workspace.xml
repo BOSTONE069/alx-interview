@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2978e48c-11ea-4405-b63a-ea2863460b68" name="Changes" comment="Modified readme file" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2KmRgZrIemapB47fLq499JXBn2N" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/home/intelligence/alx-backend-javascript",
+    "settings.editor.selected.configurable": "preferences.fileTypes"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2978e48c-11ea-4405-b63a-ea2863460b68" name="Changes" comment="" />
+      <created>1674577885280</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1674577885280</updated>
+    </task>
+    <task id="LOCAL-00001" summary="pascal triangle functions">
+      <created>1674578020480</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1674578020480</updated>
+    </task>
+    <task id="LOCAL-00002" summary="This is the test file for the project">
+      <created>1674578171542</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1674578171542</updated>
+    </task>
+    <task id="LOCAL-00003" summary="This is the test file for the project">
+      <created>1674578295300</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1674578295300</updated>
+    </task>
+    <task id="LOCAL-00004" summary="moved the files into the folder">
+      <created>1674578329109</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1674578329109</updated>
+    </task>
+    <task id="LOCAL-00005" summary="function def pascal_triangle(n): that returns a list of lists of integers representing the Pascal’s triangle of n">
+      <created>1674578354018</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1674578354018</updated>
+    </task>
+    <task id="LOCAL-00006" summary="This is the readme file for the pascal triangle">
+      <created>1674578543376</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1674578543376</updated>
+    </task>
+    <task id="LOCAL-00007" summary="include the necessary whitespaces">
+      <created>1674578647929</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1674578647929</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Removed the test files">
+      <created>1674579213819</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1674579213819</updated>
+    </task>
+    <task id="LOCAL-00009" summary="modified the pascal triangle file">
+      <created>1674579541618</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1674579541618</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Modified readme file">
+      <created>1674582634721</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1674582634721</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="pascal triangle functions" />
+    <MESSAGE value="This is the test file for the project" />
+    <MESSAGE value="moved the files into the folder" />
+    <MESSAGE value="function def pascal_triangle(n): that returns a list of lists of integers representing the Pascal’s triangle of n" />
+    <MESSAGE value="This is the readme file for the pascal triangle" />
+    <MESSAGE value="include the necessary whitespaces" />
+    <MESSAGE value="Removed the test files" />
+    <MESSAGE value="modified the pascal triangle file" />
+    <MESSAGE value="Modified readme file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Modified readme file" />
+  </component>
+</project>

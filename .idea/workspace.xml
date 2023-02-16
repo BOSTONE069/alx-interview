@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2978e48c-11ea-4405-b63a-ea2863460b68" name="Changes" comment="a method that calculates the fewest number of operations needed to result in exactly n H characters in the file.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="2978e48c-11ea-4405-b63a-ea2863460b68" name="Changes" comment="Log parsing" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,7 +23,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/home/intelligence/alx-backend-storage",
+    "last_opened_file_path": "/home/intelligence/alx-interview",
     "settings.editor.selected.configurable": "preferences.fileTypes"
   }
 }]]></component>
@@ -122,7 +120,28 @@
       <option name="project" value="LOCAL" />
       <updated>1675955524216</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Added the readme file">
+      <created>1676575263240</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1676575263240</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Log parsing">
+      <created>1676575350648</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1676575350648</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Log parsing">
+      <created>1676575369019</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1676575369019</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -148,6 +167,8 @@
     <MESSAGE value="Modified readme file" />
     <MESSAGE value="configuration files" />
     <MESSAGE value="a method that calculates the fewest number of operations needed to result in exactly n H characters in the file." />
-    <option name="LAST_COMMIT_MESSAGE" value="a method that calculates the fewest number of operations needed to result in exactly n H characters in the file." />
+    <MESSAGE value="Added the readme file" />
+    <MESSAGE value="Log parsing" />
+    <option name="LAST_COMMIT_MESSAGE" value="Log parsing" />
   </component>
 </project>

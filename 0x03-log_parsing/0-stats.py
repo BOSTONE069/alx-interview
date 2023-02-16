@@ -13,7 +13,7 @@ def printStatus(dic, size):
             print("{}: {:d}".format(i, dic[i]))
 
 
-# sourcery skip: use-contextlib-suppress
+# sourcery skip: use-context lib-suppress
 statusCodes = {"200": 0, "301": 0, "400": 0, "401": 0, "403": 0,
                "404": 0, "405": 0, "500": 0}
 

@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2978e48c-11ea-4405-b63a-ea2863460b68" name="Changes" comment="The N queens puzzle is the challenge of placing N non-attacking queens on an N×N chessboard. Write a program that solves the N queens problem">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="2978e48c-11ea-4405-b63a-ea2863460b68" name="Changes" comment="Added the readme file to the star war API game" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,7 +23,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/home/intelligence/alx-backend-user-data",
+    "last_opened_file_path": "/home/intelligence/alx-interview",
     "settings.editor.selected.configurable": "preferences.fileTypes"
   }
 }]]></component>
@@ -192,7 +190,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677770005785</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Added the readme file to the star war API game">
+      <created>1678368177301</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1678368177301</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -225,6 +230,7 @@
     <MESSAGE value="added the readme file" />
     <MESSAGE value="the executable file" />
     <MESSAGE value="The N queens puzzle is the challenge of placing N non-attacking queens on an N×N chessboard. Write a program that solves the N queens problem" />
-    <option name="LAST_COMMIT_MESSAGE" value="The N queens puzzle is the challenge of placing N non-attacking queens on an N×N chessboard. Write a program that solves the N queens problem" />
+    <MESSAGE value="Added the readme file to the star war API game" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added the readme file to the star war API game" />
   </component>
 </project>

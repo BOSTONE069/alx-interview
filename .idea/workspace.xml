@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2978e48c-11ea-4405-b63a-ea2863460b68" name="Changes" comment="star war game">
+    <list default="true" id="2978e48c-11ea-4405-b63a-ea2863460b68" name="Changes" comment="code for determining the fewest number of coins needed to meet a given amount">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,7 +25,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/home/intelligence/Downloads/LUO MEDICINE/taditional_medicine_website",
+    "last_opened_file_path": "/home/intelligence/alx-interview",
     "settings.editor.selected.configurable": "preferences.fileTypes"
   }
 }]]></component>
@@ -206,7 +206,42 @@
       <option name="project" value="LOCAL" />
       <updated>1678368452290</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="2D matrix, rotate it 90 degrees clockwise.">
+      <created>1678977626038</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1678977626038</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Added the readme file">
+      <created>1678977680545</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1678977680545</updated>
+    </task>
+    <task id="LOCAL-00027" summary="settings file">
+      <created>1678977697395</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1678977697395</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Added the read me file">
+      <created>1679588676833</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1679588676833</updated>
+    </task>
+    <task id="LOCAL-00029" summary="code for determining the fewest number of coins needed to meet a given amount">
+      <created>1679588849608</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1679588849608</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -232,15 +267,18 @@
     <MESSAGE value="Modified readme file" />
     <MESSAGE value="configuration files" />
     <MESSAGE value="a method that calculates the fewest number of operations needed to result in exactly n H characters in the file." />
-    <MESSAGE value="Added the readme file" />
     <MESSAGE value="Log parsing" />
     <MESSAGE value="method that determines if a given data set represents a valid UTF-8 encoding." />
-    <MESSAGE value="settings file" />
     <MESSAGE value="added the readme file" />
     <MESSAGE value="the executable file" />
     <MESSAGE value="The N queens puzzle is the challenge of placing N non-attacking queens on an N×N chessboard. Write a program that solves the N queens problem" />
     <MESSAGE value="Added the readme file to the star war API game" />
     <MESSAGE value="star war game" />
-    <option name="LAST_COMMIT_MESSAGE" value="star war game" />
+    <MESSAGE value="2D matrix, rotate it 90 degrees clockwise." />
+    <MESSAGE value="Added the readme file" />
+    <MESSAGE value="settings file" />
+    <MESSAGE value="Added the read me file" />
+    <MESSAGE value="code for determining the fewest number of coins needed to meet a given amount" />
+    <option name="LAST_COMMIT_MESSAGE" value="code for determining the fewest number of coins needed to meet a given amount" />
   </component>
 </project>

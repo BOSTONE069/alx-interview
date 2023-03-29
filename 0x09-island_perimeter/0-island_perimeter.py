@@ -8,7 +8,7 @@ def island_perimeter(grid):
     Input: List of Lists
     Returns: Perimeter of the island
     """
-    if not grid or not grid[0]:  # if the grid is empty or the first row is empty, return 0
+    if not grid or not grid[0]:
         return 0
 
     rows = len(grid)

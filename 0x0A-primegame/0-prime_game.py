@@ -3,61 +3,54 @@
 """ Prime Game Algorithm Python """
 
 
+def is_prime(n):
+    """ Checks if a number given n is a prime number """
+    for i in range(2, int(n ** 0.5) + 1):
+        if not n % i:
+            return False
+    return True
+
+
+def calculate_primes(n, primes):
+    """ Calculate all primes """
+    top_prime = primes[-1]
+    if n > top_prime:
+        for i in range(top_prime + 1, n + 1):
+            if is_prime(i):
+                primes.append(i)
+            else:
+                primes.append(0)
+
+
 def isWinner(x, nums):
     """
-    The function determines the winner of a game between
-    Maria and Ben based on a list of numbers and a set of prime
-    numbers.
-
-    :param x: The number of games played between Maria and Ben
-    :param nums: The parameter `nums` is a list of integers
-    representing the numbers in each game played between Maria and
-    Ben
-    :return: the name of the player who wins the game,
-    either 'Maria' or 'Ben', or None if both players have the same number
-    of wins.
+    x is the number of rounds and nums is an array of n
+    Return: name of the player that won the most rounds
+    If the winner cannot be determined, return None
+    You can assume n and x will not be larger than 10000
     """
-    maria_wins = 0
-    ben_wins = 0
 
-    for n in nums:
-        primes = set()
-        for i in range(2, n + 1):
-            is_prime = True
-            for j in range(2, int(i ** 0.5) + 1):
-                if i % j == 0:
-                    is_prime = False
-                    break
-            if is_prime:
-                primes.add(i)
+    players_wins = {"Maria": 0, "Ben": 0}
 
-        current_player = 'Maria'
-        while primes:
-            can_remove = False
-            for p in sorted(primes):
-                if n % p == 0:
-                    can_remove = True
-                    primes.remove(p)
-                    for i in range(p, n + 1, p):
-                        if i in primes:
-                            primes.remove(i)
-                    break
+    primes = [0, 0, 2]
 
-            if not can_remove:
-                if current_player == 'Maria':
-                    ben_wins += 1
-                else:
-                    maria_wins += 1
-                break
+    calculate_primes(max(nums), primes)
 
-            if current_player == 'Maria':
-                current_player = 'Ben'
-            else:
-                current_player = 'Maria'
+    for round in range(x):
+        sum_options = sum((i != 0 and i <= nums[round])
+                          for i in primes[:nums[round] + 1])
 
-    if maria_wins > ben_wins:
-        return 'Maria'
-    elif ben_wins > maria_wins:
-        return 'Ben'
-    else:
-        return None
+        if (sum_options % 2):
+            winner = "Maria"
+        else:
+            winner = "Ben"
+
+        if winner:
+            players_wins[winner] += 1
+
+    if players_wins["Maria"] > players_wins["Ben"]:
+        return "Maria"
+    elif players_wins["Ben"] > players_wins["Maria"]:
+        return "Ben"
+
+    return None

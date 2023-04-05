@@ -5,13 +5,16 @@
 
 def isWinner(x, nums):
     """
-    The function determines the winner of a game between Maria and Ben based on a list of numbers and a set of prime
+    The function determines the winner of a game between
+    Maria and Ben based on a list of numbers and a set of prime
     numbers.
 
     :param x: The number of games played between Maria and Ben
-    :param nums: The parameter `nums` is a list of integers representing the numbers in each game played between Maria and
+    :param nums: The parameter `nums` is a list of integers
+    representing the numbers in each game played between Maria and
     Ben
-    :return: the name of the player who wins the game, either 'Maria' or 'Ben', or None if both players have the same number
+    :return: the name of the player who wins the game,
+    either 'Maria' or 'Ben', or None if both players have the same number
     of wins.
     """
     maria_wins = 0
